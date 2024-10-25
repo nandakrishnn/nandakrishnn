@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 - 🚀 **Flutter Developer** with a focus on creating user-friendly and scalable mobile applications.
-- 📚 Constantly learning and exploring **Flutter** and **Firebase** to expand my technical expertise.
+- 📚 Constantly learning and exploring **Flutter** and **Dart** to expand my technical expertise.
 - 🔍 Detail-oriented, with a passion for **problem-solving** and delivering high-quality code.
 - 🌍 Based in India, open to remote opportunities.
 
