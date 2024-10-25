@@ -34,6 +34,14 @@
 
 ---
 
+### 🌟 Most Recent Project
+- **[LactoMate](https://github.com/nandakrishnn/LactoMate)**: A Flutter-based application designed for efficient shop management and route assignment. This project integrates Mapbox to provide drivers with real-time route visualization, optimizing delivery routes and enhancing user experience.
+  - **Features**: Multi-shop selection, dynamic map routing, Firebase integration for real-time data handling.
+  - **Tools Used**: Flutter, Firebase, Mapbox, Git.
+  - **Challenges Overcome**: Integrated Firebase backend with Mapbox for responsive data visualization, handled complex routing logic, and optimized UI for a professional look.
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandakrishnn&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -43,13 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakrishnn&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
----
-
-### 🌟 Notable Projects
-- **[LactoMate](https://github.com/nandakrishnn/LactoMate)** - A Flutter application for shop management and route assignment, with integrated Mapbox for route visualization.
-- **Firebase Integration** - Successfully implemented real-time data handling for multiple projects, enhancing user experience through responsive and reliable backend support.
-- **Customized UI Components** - Designed and built reusable, highly customized UI components for seamless user interaction.
 
 ---
 
